@@ -1,6 +1,5 @@
 # Steve
-
-## Junior Software / Fullstack Developer
+**Junior Software / Fullstack Developer**
 
 ![](https://komarev.com/ghpvc/?username=Specknz)
 
