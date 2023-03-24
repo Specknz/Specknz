@@ -1,4 +1,4 @@
-# Steve
+# Steve <img alt="NZ-Flag" src="https://cdn-icons-png.flaticon.com/512/330/330564.png"  width="40" height="40">
 **Junior Software / Fullstack Developer**
 
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"  width="50" height="50"><img alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="50" height="50"><img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"  width="50" height="50"><img alt="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"  width="50" height="50"><img alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="50" height="50">
