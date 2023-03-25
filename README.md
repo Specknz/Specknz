@@ -3,9 +3,13 @@
 
 <br/>
 
+## Languages
+
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"  width="40" height="40"> <img alt="Python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="40" height="40"> <img alt="HTML" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"  width="40" height="40"> <img alt="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"  width="40" height="40"> <img alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width="40" height="40">
 
 <br/>
+
+## Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Specknz&style=for-the-badge)
 
