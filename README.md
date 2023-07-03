@@ -22,3 +22,4 @@
 ## Codewars
 [![Codewars](https://www.codewars.com/users/Specknz/badges/large)](https://www.codewars.com/users/Specknz)
 
+<a href="https://www.flaticon.com/free-icons/php" title="php icons">Php icons created by Freepik - Flaticon</a>
