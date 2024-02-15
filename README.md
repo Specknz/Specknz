@@ -1,5 +1,5 @@
 # Steve <img alt="NZ-Flag" src="https://cdn-icons-png.flaticon.com/512/330/330564.png"  width="45" height="40">
-**Junior Software / Fullstack Developer**
+**Software / Fullstack Developer**
 
 <br/>
 
